@@ -11,6 +11,8 @@ public class AppTest
     extends TestCase
 int a=30;
 int b=40;
+int c=50;
+int d=60;
 {
     /**
      * Create the test case
