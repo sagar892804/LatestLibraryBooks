@@ -9,6 +9,8 @@ import junit.framework.TestSuite;
  */
 public class AppTest 
     extends TestCase
+int a=30;
+int b=40;
 {
     /**
      * Create the test case
